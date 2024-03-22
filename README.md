@@ -33,10 +33,11 @@ https://github.com/bigtreetech/MicroProbe
 
 -Voron Tap Module-
 REQUIRES Stealthburner above
+REQUIRES Y-axis rebuild mod
 CONFLICTS Microprobe
 
 
--Chamber Control Module-
+-Chamber Control Module + Nevermore-
 
 
 -Filiment Sensor + feed tracker Module-
